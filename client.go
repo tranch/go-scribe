@@ -7,7 +7,7 @@ import (
 
 	"github.com/samuel/go-metrics/metrics"
 	"github.com/tranch/go-rpcext"
-	"github.com/samuel/go-thrift"
+	"github.com/samuel/go-thrift/thrift"
 )
 
 var (
