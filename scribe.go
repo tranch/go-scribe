@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/samuel/go-thrift"
+	"github.com/samuel/go-thrift/thrift"
 )
 
 type ResultCode int32
